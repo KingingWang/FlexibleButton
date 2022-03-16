@@ -9,7 +9,7 @@ FlexibleButton 是一个基于标准 C 语言的小巧灵活的按键处理库�
 ### Git 方式
 
 ```SHELL
-git clone https://github.com/murphyzhao/FlexibleButton.git
+git clone https://github.com/KingingWang/FlexibleButton.git
 ```
 
 ### RT-Thread menuconfig 方式
